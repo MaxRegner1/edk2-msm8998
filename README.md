@@ -73,5 +73,7 @@ fastboot boot boot_DEVICE.img
 
 ## Credits
 
+added kugo
+
 
 
